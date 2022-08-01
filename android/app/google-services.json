@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "715828755705",
+    "project_id": "flutter-auth-7f95b",
+    "storage_bucket": "flutter-auth-7f95b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715828755705:android:c73c52f9305b42ae0d7628",
+        "android_client_info": {
+          "package_name": "com.example.emailsign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715828755705-58khrkmimq0gtqqlrp74rt747364lr50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKLe2CgsjdVtXb2Oysjgj7rMPoSVVNAh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715828755705-58khrkmimq0gtqqlrp74rt747364lr50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715828755705-vsdcv1ntr6q1tu3veseb0uohj6niiqcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailsign"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
